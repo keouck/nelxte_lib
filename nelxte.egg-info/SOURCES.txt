@@ -1,3 +1,4 @@
+setup.cfg
 setup.py
 nelxte.egg-info/PKG-INFO
 nelxte.egg-info/SOURCES.txt

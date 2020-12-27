@@ -1,0 +1,5 @@
+setup.py
+nelxte.egg-info/PKG-INFO
+nelxte.egg-info/SOURCES.txt
+nelxte.egg-info/dependency_links.txt
+nelxte.egg-info/top_level.txt

@@ -10,8 +10,8 @@ __status__ = "Production"
 
 # -- check_username -- #
 def check_username(
-    username, min_length=2, max_length=256, check_inappropriate=True,
-    check_length=True
+    username: str, min_length: int = 2, max_length: int = 256, check_inappropriate: bool = True,  # noqa : E501
+    check_length: bool = True
 ):
     if check_length:
         # -- checking if name is too short -- #

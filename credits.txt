@@ -1,3 +1,4 @@
 Credits:
 
 1000 Most Common Passwords list: https://github.com/DavidWittman/wpxmlrpcbrute/blob/master/wordlists/1000-most-common-passwords.txt
+banned words list: http://www.bannedwordlist.com

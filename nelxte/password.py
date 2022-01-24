@@ -1,10 +1,10 @@
 # --- Metadata ---#
 
-__author__ = "Amay Agarwal"
+__author__ = "keouck"
 __license__ = "MIT License"
 __version__ = "1.0"
-__maintainer__ = "Amay Agarwal"
-__email__ = "amayagarwal428@gmail.com"
+__maintainer__ = "keouck"
+__email__ = "imerminu@tutanota.com"
 __status__ = "Production"
 
 import re  # --- Import the regex library ---#

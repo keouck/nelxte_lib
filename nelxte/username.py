@@ -1,10 +1,10 @@
 # --- Metadata ---#
 
-__author__ = ["Amay Agarwal", "parzival"]
+__author__ = ["keouck", "parzival"]
 __license__ = "MIT License"
 __version__ = "1.0"
-__maintainer__ = ["Amay Agarwal", "parzival"]
-__email__ = ["amayagarwal428@gmail.com", "suryakiranpradosh@gmail.com"]
+__maintainer__ = ["keouck", "parzival"]
+__email__ = ["imerminu@tutanota.com", "suryakiranpradosh@gmail.com"]
 __status__ = "Production"
 
 
